@@ -4,7 +4,7 @@
 - Next.Js [Next.js](https://nextjs.org/)
 - Chakra UI [Chakra-ui](https://chakra-ui.com/)
 - Mongoose [Mongoose](https://mongoosejs.com/)
-- Axios [axios](https://axios-http.com/docs/intro)
+- Axios [Axios](https://axios-http.com/docs/intro)
 
 <p>Para execução do projeto, você precisará inicialmente ter em sua máquina um dos gerenciadores de pacote abaixo: </p>
 
